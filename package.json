@@ -1,0 +1,26 @@
+{
+  "name": "textlint-allow-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eetann/textlint-allow-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eetann/textlint-allow-sample/issues"
+  },
+  "homepage": "https://github.com/eetann/textlint-allow-sample#readme",
+  "devDependencies": {
+    "textlint": "^12.1.1",
+    "textlint-filter-rule-allowlist": "^4.0.0",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0"
+  }
+}
