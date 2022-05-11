@@ -1,0 +1,14 @@
+{
+  "filters": {
+    "comments": true,
+    "allowlist": {
+      // シンタックスハイライト [text],[/text]に囲まれた部分をスキップ
+      "allow": [
+        "/^\\[.+\\]$[^]*?^\\[\\/.+\\]$/m",
+      ]
+    }
+  },
+  "rules": {
+    "preset-ja-technical-writing": true
+  }
+}
